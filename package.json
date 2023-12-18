@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "modern-css-reset": "^1.4.0",
+    "sass": "^1.63.6",
+    "scss": "^0.2.4"
+  }
+}

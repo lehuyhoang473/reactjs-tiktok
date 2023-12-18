@@ -1,0 +1,6 @@
+
+// mỗi khi lưu lại code để fomat lại code để đọc cái prettierrc lại
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
